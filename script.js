@@ -23,6 +23,6 @@ $(document).ready(function () {
 
     $('.btn-yes').on('click', function () {
         alert('Waiting for your reply!');
-        window.location.href = 'mailto:recipient@example.com?subject=Let\'s%20Go%20Out%20Tomorrow&body=Hi%20there,%0A%0AI%20am%20excited%20to%20go%20out%20with%20you%20tomorrow!';
+        window.location.href = 'mailto:ajoshi@miu.edu?subject=Let\'s%20Go%20Out%20Tomorrow&body=Hi%20there,%0A%0AI%20am%20excited%20to%20go%20out%20with%20you%20tomorrow!';
     });
 });
